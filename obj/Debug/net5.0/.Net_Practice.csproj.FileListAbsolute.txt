@@ -1,0 +1,16 @@
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.exe
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.deps.json
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.runtimeconfig.json
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.runtimeconfig.dev.json
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.dll
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\ref\.Net_Practice.dll
+C:\Users\alperen.faki\Desktop\.Net_Practice\bin\Debug\net5.0\.Net_Practice.pdb
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.csproj.AssemblyReference.cache
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.AssemblyInfoInputs.cache
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.AssemblyInfo.cs
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.csproj.CoreCompileInputs.cache
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.dll
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\ref\.Net_Practice.dll
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.pdb
+C:\Users\alperen.faki\Desktop\.Net_Practice\obj\Debug\net5.0\.Net_Practice.genruntimeconfig.cache
