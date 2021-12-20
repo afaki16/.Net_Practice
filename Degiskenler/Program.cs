@@ -27,7 +27,7 @@ namespace Degiskenler
            decimal n =14;
 
 
-           char o = '15';
+          
            string p ="ab";
             
         
