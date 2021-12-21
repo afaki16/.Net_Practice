@@ -37,8 +37,33 @@ namespace Tip_Donusumleri
 
            Console.WriteLine("------------------------");
 
-           
-        
+           int abc = 9;
+           string xyz = "5";
+           int yy = abc + Convert.ToInt32(xyz);
+            Console.WriteLine(yy);
+
+            int def = 9;
+           string ghj = def.ToString();
+            Console.WriteLine("ghj:"+ghj);
+            ParseMethod();
+        }
+
+        public static void ParseMethod()
+        {
+
+           string yazi1 = "6";
+           string yazi2 = "9";
+           int sayi1;
+           double sayi2,toplam;
+
+           sayi1 = Int32.Parse(yazi1);
+           sayi2 = Double.Parse(yazi2);
+           toplam = Convert.ToDouble(sayi1)+sayi2;
+           Console.WriteLine(toplam);
+
+
+
+
         }
     }
 }
