@@ -62,6 +62,8 @@ namespace Operatorler
            sonuc1 = h++;
            Console.WriteLine(sonuc1);
 
+        //--------------------------------
+
            int t = 20%3;
            Console.WriteLine(t);
 
