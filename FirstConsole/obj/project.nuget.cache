@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "z9ly1+70SMEYKcd5oPIIQRtnSu1rRBqU6GbKEHUBFx71Qum/KnVks0KzBU1VC+bLBhI3oIGG6YeAgg2Ene0Cyw==",
+  "dgSpecHash": "49Fbn5+G/4UxUwUEtf1sJVGlvWmTpcQrVHmNazIVVed5hGhRuJzKlRs92Oo5v3ncYGh0AVP06Czz6iP4ThTv9w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alperen.faki\\Desktop\\.Net_Practice\\FirstConsole\\.Net_Practice.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\FirstConsole\\.Net_Practice.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\alper\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
   "logs": []
 }

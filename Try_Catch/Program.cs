@@ -6,7 +6,9 @@ namespace Try_Catch
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            
+            Console.WriteLine("Lütfen bir sayı giriniz :");
+            int a = Console.ReadLine();
         }
     }
 }
