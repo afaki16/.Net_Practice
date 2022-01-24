@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj": {}
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj": {
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj",
         "projectName": "Try_Catch",
-        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj",
+        "projectPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\Try_Catch.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Try_Catch\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
