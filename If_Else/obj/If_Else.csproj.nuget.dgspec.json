@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj": {}
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj": {
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj",
         "projectName": "If_Else",
-        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj",
+        "projectPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\If_Else.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\If_Else\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
