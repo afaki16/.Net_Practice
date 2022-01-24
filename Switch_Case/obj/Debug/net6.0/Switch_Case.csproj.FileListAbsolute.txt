@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\Switch_Case.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\Switch_Case.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\Switch_Case.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\Switch_Case.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\ref\Switch_Case.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\bin\Debug\net6.0\Switch_Case.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\ref\Switch_Case.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Switch_Case\obj\Debug\net6.0\Switch_Case.genruntimeconfig.cache
