@@ -6,9 +6,21 @@ namespace Try_Catch
     {
         static void Main(string[] args)
         {
-            
-            Console.WriteLine("Lütfen bir sayı giriniz :");
-            int a = Console.ReadLine();
+            try
+            {
+                Console.WriteLine("Bir sayı giriniz :");
+                int a = Convert.ToInt32(Console.ReadLine());
+                Console.WriteLine("Girmiş olduğunuz sayı :" + a);
+            }
+            catch(Exception ex)
+            {
+                 Console.WriteLine(ex.Message.ToString());
+            }
+            finally
+            {
+                Console.WriteLine("İşlem tamalandı");
+            }
+        
         }
     }
 }
