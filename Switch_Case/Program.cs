@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Try_Catch
+namespace Switch_Case
 {
 
     class Program
