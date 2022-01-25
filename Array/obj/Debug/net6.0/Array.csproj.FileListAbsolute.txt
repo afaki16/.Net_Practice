@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\Array.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\Array.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\Array.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\Array.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\ref\Array.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\bin\Debug\net6.0\Array.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\ref\Array.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Array\obj\Debug\net6.0\Array.genruntimeconfig.cache
