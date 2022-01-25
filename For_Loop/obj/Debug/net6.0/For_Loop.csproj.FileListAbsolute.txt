@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\For_Loop.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\For_Loop.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\For_Loop.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\For_Loop.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\ref\For_Loop.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\bin\Debug\net6.0\For_Loop.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\ref\For_Loop.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\For_Loop\obj\Debug\net6.0\For_Loop.genruntimeconfig.cache
