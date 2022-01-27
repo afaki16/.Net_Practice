@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\Methods_OvLo.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\Methods_OvLo.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\Methods_OvLo.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\Methods_OvLo.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\ref\Methods_OvLo.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\bin\Debug\net6.0\Methods_OvLo.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\ref\Methods_OvLo.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methods_OvLo\obj\Debug\net6.0\Methods_OvLo.genruntimeconfig.cache
