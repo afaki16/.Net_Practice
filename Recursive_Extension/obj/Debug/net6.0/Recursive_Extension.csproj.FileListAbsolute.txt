@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\Recursive_Extension.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\Recursive_Extension.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\Recursive_Extension.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\Recursive_Extension.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\ref\Recursive_Extension.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\bin\Debug\net6.0\Recursive_Extension.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\ref\Recursive_Extension.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Recursive_Extension\obj\Debug\net6.0\Recursive_Extension.genruntimeconfig.cache
