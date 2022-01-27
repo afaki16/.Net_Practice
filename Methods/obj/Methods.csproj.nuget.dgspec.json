@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Array\\Array.csproj": {}
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Methods\\Methods.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Array\\Array.csproj": {
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Methods\\Methods.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Array\\Array.csproj",
-        "projectName": "Array",
-        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Array\\Array.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Methods\\Methods.csproj",
+        "projectName": "Methods",
+        "projectPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Methods\\Methods.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Array\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Methods\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
