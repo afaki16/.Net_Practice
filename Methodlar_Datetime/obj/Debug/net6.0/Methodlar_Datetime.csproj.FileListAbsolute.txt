@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\Methodlar_Datetime.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\Methodlar_Datetime.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\Methodlar_Datetime.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\Methodlar_Datetime.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\ref\Methodlar_Datetime.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\bin\Debug\net6.0\Methodlar_Datetime.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\ref\Methodlar_Datetime.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Methodlar_Datetime\obj\Debug\net6.0\Methodlar_Datetime.genruntimeconfig.cache

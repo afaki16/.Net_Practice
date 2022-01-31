@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Methodlar_Datetime/1.0.0": {
+        "runtime": {
+          "Methodlar_Datetime.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Methodlar_Datetime/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
