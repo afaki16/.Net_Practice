@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\Hazir_Methodlar.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\Hazir_Methodlar.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\Hazir_Methodlar.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\Hazir_Methodlar.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\ref\Hazir_Methodlar.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\bin\Debug\net6.0\Hazir_Methodlar.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\ref\Hazir_Methodlar.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Hazir_Methodlar\obj\Debug\net6.0\Hazir_Methodlar.genruntimeconfig.cache
