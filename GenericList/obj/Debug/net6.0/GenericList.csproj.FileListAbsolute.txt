@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\ref\GenericList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\bin\Debug\net6.0\GenericList.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\ref\GenericList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\GenericList\obj\Debug\net6.0\GenericList.genruntimeconfig.cache
