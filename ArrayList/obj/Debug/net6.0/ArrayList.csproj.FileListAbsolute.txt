@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ArrayList.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ArrayList.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ArrayList.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ArrayList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ref\ArrayList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\bin\Debug\net6.0\ArrayList.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ref\ArrayList.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\ArrayList\obj\Debug\net6.0\ArrayList.genruntimeconfig.cache
