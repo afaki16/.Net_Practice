@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\Koleksiyon_1.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\Koleksiyon_1.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\Koleksiyon_1.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\Koleksiyon_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\ref\Koleksiyon_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\bin\Debug\net6.0\Koleksiyon_1.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\ref\Koleksiyon_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Algoritma_2\Koleksiyon_1\obj\Debug\net6.0\Koleksiyon_1.genruntimeconfig.cache
