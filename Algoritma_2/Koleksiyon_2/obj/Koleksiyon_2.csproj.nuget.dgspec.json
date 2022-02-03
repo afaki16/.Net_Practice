@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_1\\Koleksiyon_1.csproj": {}
+    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_2\\Koleksiyon_2.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_1\\Koleksiyon_1.csproj": {
+    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_2\\Koleksiyon_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_1\\Koleksiyon_1.csproj",
-        "projectName": "Koleksiyon_1",
-        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_1\\Koleksiyon_1.csproj",
+        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_2\\Koleksiyon_2.csproj",
+        "projectName": "Koleksiyon_2",
+        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_2\\Koleksiyon_2.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_1\\obj\\",
+        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Algoritma_2\\Koleksiyon_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
