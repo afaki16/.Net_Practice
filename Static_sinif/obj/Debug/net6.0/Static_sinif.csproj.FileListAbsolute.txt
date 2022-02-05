@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\Static_sinif.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\Static_sinif.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\Static_sinif.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\Static_sinif.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\ref\Static_sinif.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\bin\Debug\net6.0\Static_sinif.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\ref\Static_sinif.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Static_sinif\obj\Debug\net6.0\Static_sinif.genruntimeconfig.cache
