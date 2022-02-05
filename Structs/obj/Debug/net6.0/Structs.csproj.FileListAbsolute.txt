@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\Structs.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\Structs.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\Structs.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\Structs.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\ref\Structs.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\bin\Debug\net6.0\Structs.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\ref\Structs.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Structs\obj\Debug\net6.0\Structs.genruntimeconfig.cache
