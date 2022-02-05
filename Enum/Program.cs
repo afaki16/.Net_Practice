@@ -20,7 +20,7 @@ namespace Enums
             {
             Console.WriteLine("Dışarısı sıcak...");
             }
-            else if(n >= (int)HavaDurumu.CokSicak)
+            else if(n <= (int)HavaDurumu.Soğuk)
             {
             Console.WriteLine("Evde otur..");
             }
