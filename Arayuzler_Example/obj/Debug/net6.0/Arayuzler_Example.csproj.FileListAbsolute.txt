@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\Arayuzler_Example.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\Arayuzler_Example.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\Arayuzler_Example.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\Arayuzler_Example.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\ref\Arayuzler_Example.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\bin\Debug\net6.0\Arayuzler_Example.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\ref\Arayuzler_Example.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler_Example\obj\Debug\net6.0\Arayuzler_Example.genruntimeconfig.cache
