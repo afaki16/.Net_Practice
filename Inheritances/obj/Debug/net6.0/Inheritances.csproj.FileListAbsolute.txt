@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\Inheritances.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\Inheritances.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\Inheritances.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\Inheritances.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\ref\Inheritances.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\bin\Debug\net6.0\Inheritances.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\ref\Inheritances.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Inheritances\obj\Debug\net6.0\Inheritances.genruntimeconfig.cache

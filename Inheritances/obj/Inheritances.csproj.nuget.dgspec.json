@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\ArrayList\\ArrayList.csproj": {}
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Inheritances\\Inheritances.csproj": {}
   },
   "projects": {
-    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\ArrayList\\ArrayList.csproj": {
+    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Inheritances\\Inheritances.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\ArrayList\\ArrayList.csproj",
-        "projectName": "ArrayList",
-        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\ArrayList\\ArrayList.csproj",
+        "projectUniqueName": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Inheritances\\Inheritances.csproj",
+        "projectName": "Inheritances",
+        "projectPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Inheritances\\Inheritances.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\ArrayList\\obj\\",
+        "outputPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Inheritances\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
