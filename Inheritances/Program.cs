@@ -1,6 +1,7 @@
 ﻿using System;
-using static Bitkiler;
-using static Hayvanlar;
+using Inheritance;
+
+
 
 namespace Inheritances
 {
@@ -13,6 +14,8 @@ namespace Inheritances
 
            Kuslar marti = new Kuslar();
            marti.Ucmak();
+           
+
 
         }
     }

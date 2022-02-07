@@ -1,7 +1,10 @@
 using System;
 
+namespace Inheritance
+{
+    
 
-class Canlilar
+public class Canlilar
 {
     protected void Beslenme()
     {
@@ -18,5 +21,10 @@ class Canlilar
         Console.WriteLine("Canlılar boşaltım yapar. ");
     }
 
+    public virtual void UyaranlaraTepki()
+    {
+        Console.WriteLine("Canlılar uyaranlara tepki verir.");
 
+    }
+}
 }

@@ -1,13 +1,20 @@
 using System;
 
-
-class Bitkiler : Canlilar
+namespace Inheritance
 {
-    protected void Fotosentez()
-    {
-        Console.WriteLine("Bitkiler fotosentez yaparlar.");
-    }
 
+    public class Bitkiler : Canlilar
+    {
+        protected void Fotosentez()
+        {
+            Console.WriteLine("Bitkiler fotosentez yaparlar.");
+        }
+        public override void UyaranlaraTepki()
+        {
+            //base.UyaranlaraTepki();
+            Console.WriteLine("Bitkiler güneşe tepki verir.");
+        }
+    }
     public class TohumluBitkiler : Bitkiler
     {
         public TohumluBitkiler()
@@ -16,6 +23,7 @@ class Bitkiler : Canlilar
             base.Beslenme();
             base.Bosaltim();
             base.Solunum();
+            base.UyaranlaraTepki();
 
         }
         public void TohumlaCogalma()
@@ -27,7 +35,7 @@ class Bitkiler : Canlilar
     }
     public class TohumsuzBitkiler : Bitkiler
     {
-         public TohumsuzBitkiler()
+        public TohumsuzBitkiler()
         {
             base.Fotosentez();
             base.Beslenme();
