@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\Arayuzler.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\Arayuzler.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\Arayuzler.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\Arayuzler.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\ref\Arayuzler.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\bin\Debug\net6.0\Arayuzler.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\ref\Arayuzler.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Arayuzler\obj\Debug\net6.0\Arayuzler.genruntimeconfig.cache
