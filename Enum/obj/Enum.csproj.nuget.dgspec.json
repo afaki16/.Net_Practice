@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj": {}
+    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj": {}
   },
   "projects": {
-    "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj": {
+    "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj",
+        "projectUniqueName": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj",
         "projectName": "Enum",
-        "projectPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj",
+        "projectPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\Enum.csproj",
         "packagesPath": "C:\\Users\\alper\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\obj\\",
+        "outputPath": "c:\\Users\\alper\\Desktop\\GITHUB\\.Net_Practice\\Enum\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\alper\\AppData\\Roaming\\NuGet\\NuGet.Config"
