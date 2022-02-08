@@ -1,0 +1,185 @@
+using System;
+
+namespace Proje_1
+{
+    class contactSolutions
+    {
+        public void Add(List<Contacts> phoneContact)
+        {
+            Console.WriteLine("Lütfen yeni Numara Kaydediniz");
+            Console.WriteLine("Lütfen isim giriniz: ");
+            string firstName = Console.ReadLine();
+            Console.WriteLine("Lütfen soyisim giriniz : ");
+            string lastName = Console.ReadLine();
+            Console.WriteLine("Lütfen numarayı giriniz: ");
+            int number = int.Parse(Console.ReadLine());
+            Contacts nc = new Contacts(firstName, lastName, number);
+            phoneContact.Add(nc);
+            Console.WriteLine("Kişi rehbere başarılı şekilde eklendi.");
+        }
+
+        public void Delete(List<Contacts> phoneContact)
+        {
+            Console.WriteLine("Silmek istediğiniz kişinin adını ve soyadını giriniz: ");
+            Console.WriteLine("Lütfen isim giriniz : ");
+            string firstName = Console.ReadLine();
+            Console.WriteLine("Lütfen soyisim giriniz : ");
+            string lastName = Console.ReadLine();
+            int range = 0;
+            foreach (var item in phoneContact)
+            {
+                if (item.firstName == firstName || item.lastName == lastName)
+                {
+                    range++;
+                }
+            }
+
+            if (range > 0)
+            {
+                Console.WriteLine(firstName + " " + lastName + " isimli kişi rehberden silinmek istiyorsunuz, onaylıyor musunuz ?(y/n)");
+                char letter = Convert.ToChar(Console.ReadLine());
+                if (letter == 'y')
+                {
+                    foreach (var item in phoneContact)
+                    {
+                        if (item.firstName == firstName || item.lastName == lastName)
+                        {
+                            phoneContact.Remove(item);
+                            Console.WriteLine(item.firstName + " isimli kişi rehberden silme işlemi başarılı şekilde gerçekleşmiştir.");
+                            break;
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Silme işlemi bitmiştir.");
+                }
+            }
+            else
+            {
+                Console.WriteLine("Aradığınız kriterler rehberde bulunamadı,devam etmek için...");
+                Console.WriteLine("(1) Silme işlemini bitirmek için : ");
+                Console.WriteLine("(2) Yeniden işlem gerçekleştirmek için : ");
+                int newletter = Convert.ToInt32(Console.ReadLine());
+                if (newletter == 2)
+                {
+                    Delete(phoneContact);
+                }
+                else
+                {
+                    Console.WriteLine("Silme işlemi bitmiştir.");
+                }
+
+            }
+        }
+        public void Lists(List<Contacts> phoneContact)
+        {
+            Console.WriteLine("Rehber");
+            Console.WriteLine("**************************");
+            foreach (var item in phoneContact)
+            {
+                Console.WriteLine("İsim: " + item.firstName);
+                Console.WriteLine("Soyisim: " + item.lastName);
+                Console.WriteLine("Numara: " + item.number);
+                Console.WriteLine("--------------------------------");
+            }
+        }
+    
+        public void Update(List<Contacts> phoneContact)
+        {
+            Console.WriteLine("Lütfen numarasını güncellemek istediğiniz kişinin isim veya soyismini giriniz:  ");
+            Console.WriteLine("Lütfen isim giriniz : ");
+            string firtName = Console.ReadLine();
+            Console.WriteLine("Lütfen soyisim giriniz : ");
+            string lastName = Console.ReadLine();
+            int range = 0;
+            foreach (var item in phoneContact)
+            {
+                if (item.firstName == firtName || item.lastName == lastName)
+                {
+                    range++;
+                }
+            }
+
+            if (range > 0)
+            {
+                Console.WriteLine(firtName + " " + lastName + " isimli kişinin numarasını güncelliceksiniz, onaylıyor musunuz ?(y/n)");
+                char letter = Convert.ToChar(Console.ReadLine());
+                if (letter == 'y')
+                {
+                    foreach (var item in phoneContact)
+                    {
+                        if (item.firstName == firtName || item.lastName == lastName)
+                        {
+                            Console.WriteLine("Lütfen yeni numarayı giriniz: ");
+                            int number = int.Parse(Console.ReadLine());
+                            item.number = number;
+                        }
+                    }
+                }
+                else
+                {
+                    Console.WriteLine("Güncelleme işlemi bitmiştir.");
+                }
+            }
+            else
+            {
+               Console.WriteLine("Aradığınız kriterler rehberde bulunamadı,devam etmek için...");
+                Console.WriteLine("(1) Güncelleme işlemini bitirmek için : ");
+                Console.WriteLine("(2) Yeniden işlem gerçekleştirmek için : ");
+                int newrange = Convert.ToInt32(Console.ReadLine());
+                if (newrange == 2)
+                {
+                    Update(phoneContact);
+                }
+                else
+                {
+                    Console.WriteLine("Güncelleme işlemi bitmiştir.");
+                }
+
+            }
+        }
+
+        
+
+        public void Find(List<Contacts> phoneContact)
+        {
+            Console.WriteLine("Arama seçenekleri:");
+            Console.WriteLine("(1) İsim veya soyisime göre arama yapmak için: ");
+            Console.WriteLine("(2) Telefon numarasına göre arama yapmak için: ");
+            int range = Convert.ToInt32(Console.ReadLine());
+            if (range == 1)
+            {
+                Console.WriteLine("Lütfen isim giriniz : ");
+                string firstName = Console.ReadLine();
+                Console.WriteLine("Lütfen soyisim giriniz : ");
+                string lastName = Console.ReadLine();
+                foreach (var item in phoneContact)
+                {
+                    if (item.firstName == firstName || item.lastName == lastName)
+                    {
+                        Console.WriteLine("İsim: " + item.firstName);
+                        Console.WriteLine("Soyisim: " + item.lastName);
+                        Console.WriteLine("Numara: " + item.number);
+                        Console.WriteLine("---------------------------------");
+                    }
+                }
+            }
+            else
+            {
+                Console.WriteLine("Lütfen numarayı giriniz: ");
+                int number = int.Parse(Console.ReadLine());
+                foreach (var item in phoneContact)
+                {
+                    if (item.number == number)
+                    {
+                         Console.WriteLine("İsim: " + item.firstName);
+                        Console.WriteLine("Soyisim: " + item.lastName);
+                        Console.WriteLine("Numara: " + item.number);
+                        Console.WriteLine("---------------------------------");
+                    }
+                }
+            }
+        }
+    }
+}

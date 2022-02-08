@@ -1,0 +1,15 @@
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\Proje_1.exe
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\Proje_1.deps.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\Proje_1.runtimeconfig.json
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\Proje_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\ref\Proje_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\bin\Debug\net6.0\Proje_1.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.csproj.AssemblyReference.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.AssemblyInfoInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.AssemblyInfo.cs
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.csproj.CoreCompileInputs.cache
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\ref\Proje_1.dll
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.pdb
+C:\Users\alper\Desktop\GITHUB\.Net_Practice\Proje_1\obj\Debug\net6.0\Proje_1.genruntimeconfig.cache
